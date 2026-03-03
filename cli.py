@@ -15,6 +15,7 @@ def run_cli():
 
     while True:
         print("\n--- IT HOOLDUSPÄEVIK ---")
+        print("Tere!")
         print("1. Lisa uus logikirje")
         print("2. Kuva kõik logikirjed")
         print("3. Otsi kirjeid")
